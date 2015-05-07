@@ -1,5 +1,5 @@
-Pystrap |Version| |Build| |Coverage| |Health|
-=============================================
+Pystrap |Build| |Health|
+========================
 
 Interactively create a new Python skeleton project ready for PyPI deployment!
 
