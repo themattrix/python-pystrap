@@ -1,30 +1,12 @@
 Pystrap |Version| |Build| |Coverage| |Health|
-===================================================================
-
-|Compatibility| |Implementations| |Format| |Downloads|
+=============================================
 
 Interactively create a new Python skeleton project ready for PyPI deployment!
 
-.. code:: python
+  **Not yet ready for use!**
 
-    # TODO: add super short usage
-
-
-Installation:
-
-.. code:: console
-
-    $ pip install pystrap
-
-.. TODO: longer description
-
-
-Example
--------
-
-.. code:: python
-
-    # TODO: add example
+This is a thin, interactive wrapper around
+`python-pypi-template <https://github.com/themattrix/python-pypi-template>`_.
 
 
 Changelog
@@ -32,7 +14,7 @@ Changelog
 
 **0.0.1**
 
-- Initial release.
+- Initial release. Completely empty, does absolutely nothing.
 
 
 .. |Build| image:: https://travis-ci.org/themattrix/python-pystrap.svg?branch=master
