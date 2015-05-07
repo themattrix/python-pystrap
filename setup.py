@@ -1,19 +1,18 @@
 from setuptools import setup
 
 setup(
-    name='{{ package_name }}',
-    version='{{ package_version }}',
-    packages=('{{ package_dir_name }}',),
-    url='https://github.com/{{ github_user }}/{{ repo_name }}',
+    name='pystrap',
+    version='0.0.1',
+    packages=('pystrap',),
+    url='https://github.com/themattrix/python-pystrap',
     license='MIT',
-    author='{{ author_name }}',
-    author_email='{{ author_email }}',
-    install_requires=(
-        {{ install_requires|pytuple }}),
-    tests_require=(
-        {{ tests_require|pytuple }}),
+    author='Matthew Tardiff',
+    author_email='mattrix@gmail.com',
+    install_requires=(),
+    tests_require=(),
     description=(
-        {{ short_description|pystring }}),
+        'Interactively create a new Python skeleton project ready for '
+        'PyPI deployment!'),
     classifiers=(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 2',

@@ -2,8 +2,8 @@
 
 set -e -o pipefail
 
-readonly PACKAGE_DIR="{{ package_dir_name }}"
-readonly PACKAGE_NAME="{{ package_name }}"
+readonly PACKAGE_DIR="pystrap"
+readonly PACKAGE_NAME="pystrap"
 
 function each_iname {
     local iname=${1}; shift
