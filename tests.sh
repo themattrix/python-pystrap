@@ -8,7 +8,7 @@ readonly PACKAGE_NAME="pystrap"
 function each_iname {
     local iname=${1}; shift
 
-    find . -type f -iname "${iname}" | while read filename; do
+    find * -type f -iname "${iname}" | while read filename; do
         "$@" "${filename}"
     done
 }
