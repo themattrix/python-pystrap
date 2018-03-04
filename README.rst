@@ -23,13 +23,13 @@ Changelog
    :target: https://coveralls.io/r/themattrix/python-pystrap
 .. |Health| image:: https://landscape.io/github/themattrix/python-pystrap/master/landscape.svg
    :target: https://landscape.io/github/themattrix/python-pystrap/master
-.. |Version| image:: https://pypip.in/version/pystrap/badge.svg?text=version
+.. |Version| image:: https://img.shields.io/pypi/v/pystrap.svg?label=version
    :target: https://pypi.python.org/pypi/pystrap
-.. |Downloads| image:: https://pypip.in/download/pystrap/badge.svg
+.. |Downloads| image:: https://img.shields.io/pypi/dm/pystrap.svg
    :target: https://pypi.python.org/pypi/pystrap
-.. |Compatibility| image:: https://pypip.in/py_versions/pystrap/badge.svg
+.. |Compatibility| image:: https://img.shields.io/pypi/pyversions/pystrap.svg
    :target: https://pypi.python.org/pypi/pystrap
-.. |Implementations| image:: https://pypip.in/implementation/pystrap/badge.svg
+.. |Implementations| image:: https://img.shields.io/pypi/implementation/pystrap.svg
    :target: https://pypi.python.org/pypi/pystrap
-.. |Format| image:: https://pypip.in/format/pystrap/badge.svg
+.. |Format| image:: https://img.shields.io/pypi/format/pystrap.svg
    :target: https://pypi.python.org/pypi/pystrap
